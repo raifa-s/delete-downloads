@@ -1,0 +1,13 @@
+What file(s) would you like to remove?
+Map Algebra
+What file type?
+.pdf
+
+C:\Users\raifa\Downloads\LEC11_Map Algebra (1).pdf
+File has successfully been deleted.
+
+C:\Users\raifa\Downloads\LEC11_Map Algebra (2).pdf
+File has successfully been deleted.
+
+C:\Users\raifa\Downloads\LEC11_Map Algebra.pdf
+File has successfully been deleted.
