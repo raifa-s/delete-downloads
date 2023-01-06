@@ -1,13 +1,31 @@
+# Removing Copies
+Do you want to delete copies? Y/N?
+Y
+
 What file(s) would you like to remove?
-Map Algebra
+If you are removing copies, please type in the full filename.
+30879_20231_GGR276H5S_LEC0101
+
 What file type?
 .pdf
 
-C:\Users\raifa\Downloads\LEC11_Map Algebra (1).pdf
+C:\Users\raifa\Downloads\30879_20231_GGR276H5S_LEC0101 (1).pdf
 File has successfully been deleted.
 
-C:\Users\raifa\Downloads\LEC11_Map Algebra (2).pdf
+C:\Users\raifa\Downloads\30879_20231_GGR276H5S_LEC0101 (2).pdf
 File has successfully been deleted.
 
-C:\Users\raifa\Downloads\LEC11_Map Algebra.pdf
+
+# Removing Files with Similar Names
+Do you want to delete copies? Y/N?
+N
+What file(s) would you like to remove?
+If you are removing copies, please type in the full filename.
+GGR3
+What file type?
+.pdf
+C:\Users\raifa\Downloads\30697_20231_GGR304H5S_LEC0101.pdf
+File has successfully been deleted.
+
+C:\Users\raifa\Downloads\30744_20231_GGR305H5S_LEC0101.pdf
 File has successfully been deleted.
